@@ -13,7 +13,15 @@ Java, Collection, I/O, 정규표현식 등을 사용하여 구현하였으며, �
 * 관리자는 자전거를 등록 및 삭제할 수 있으며, 가입한 회원을 조회할 수 있다.<br>
 * 사용자가 대여를 완료하면 관리자는 자전거 대여 현황을 볼 수 있다.<br>
 
-## Use case diagram 
-![usecase](https://user-images.githubusercontent.com/78418562/125219958-d2bc6800-e300-11eb-945b-794555106793.jpg)
+## Usecase diagram 
+![Usecase diagram](https://user-images.githubusercontent.com/78418562/125223594-fe425100-e306-11eb-9b5d-943a00a26db5.jpg)
 
-##
+## Class diagram 
+![Classdiagram](https://user-images.githubusercontent.com/78418562/125223598-000c1480-e307-11eb-8f91-240a4099dfc2.jpg)
+
+## 시연영상
+![program](https://user-images.githubusercontent.com/78418562/125223621-0b5f4000-e307-11eb-96c8-6844589c8672.gif)
+
+## 팀원소개
+* 이보희 (https://github.com/lbhee)
+* 박선희 (https://github.com/sunhee1021)
